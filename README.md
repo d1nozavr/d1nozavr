@@ -1,9 +1,9 @@
 # :wave: Hi, I'm d1nozavr!
 
 ## :green_book: About
-- Languages: **Python**, **:dragon: DragonTree :deciduous_tree:**
-- Focused on software engineering.
-- Tools I use: ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white) ![Zsh](https://img.shields.io/badge/Shell-zsh-121011?logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- :mortar_board: Languages: **:snake: Python**, **:dragon: DragonTree :deciduous_tree:**
+- :mag: Focused on software engineering.
+- :toolbox: Tools I use: ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white) ![Zsh](https://img.shields.io/badge/Shell-zsh-121011?logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
