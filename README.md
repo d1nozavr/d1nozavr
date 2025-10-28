@@ -3,7 +3,7 @@
 ## :green_book: About
 - :mortar_board: Languages: **:snake: Python**, **:dragon: DragonTree :deciduous_tree:**
 - :mag: Focused on software engineering.
-- :toolbox: Tools I use: ![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python&logoColor=white) ![Zsh](https://img.shields.io/badge/Shell-zsh-121011?logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- :toolbox: Tools I use: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://www.zsh.org) [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](https://vscodium.com)
 
 ---
 
