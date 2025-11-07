@@ -17,8 +17,7 @@
 
 ## :stars: GitHub Stats
 
-![d1nozavr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d1nozavr&show_icons=true&theme=tokyonight)
-![d1nozavr's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d1nozavr&layout=compact&theme=tokyonight)
+![d1nozavr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=d1nozavr&show_icons=true&theme=transparent)
 
 ---
 
