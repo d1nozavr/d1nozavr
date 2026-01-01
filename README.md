@@ -3,7 +3,7 @@
 ## :green_book: About
 - :mortar_board: Languages: **:snake: Python**, **:dragon: DragonTree :deciduous_tree:**
 - :mag: Focused on software engineering.
-- :toolbox: Tools I use: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://www.zsh.org) [![Zed](https://img.shields.io/badge/Zed-black?logo=zedindustries&logoColor=084CCF)](https://zed.dev)
+- :toolbox: Tools I use: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/) [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://www.zsh.org)
 
 ---
 
